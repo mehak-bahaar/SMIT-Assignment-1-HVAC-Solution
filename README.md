@@ -73,7 +73,7 @@ This project demonstrates:
 ## 👨‍💻 Author
 
 **Mehak Bahar**
-- GitHub: [@mehak-bahaa](https://github.com/mehak-bahaa)
+- GitHub: [@mehak-bahaa](https://github.com/mehak-bahaar)
 
 ## 📅 Date
 
